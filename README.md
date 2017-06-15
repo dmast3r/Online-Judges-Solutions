@@ -3,13 +3,15 @@ This repository contains solution to SPOJ problems. The solutions are written in
 Please always add a documentation at the top of the source code you submit.
 The documentation you add must follow the following format:
 
-
 Name :- Name of the problem
-ID :- ID of the problem
-Link :- Link to the problem
-Date :- Date of uploading the solution
-By :- Name of the solver(if you take the solution from somewhere else than please mention the link of the source else the SPOJ profile link of the solver in parentheses next to the name)
 
+ID :- ID of the problem
+
+Link :- Link to the problem
+
+Date :- Date of uploading the solution
+
+By :- Name of the solver(if you take the solution from somewhere else than please mention the link of the source else the SPOJ profile link of the solver in parentheses next to the name)
 
 Also keep in mind :-
 1. Please explain your algorithm if it is not obvious.
