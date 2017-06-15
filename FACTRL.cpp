@@ -3,7 +3,7 @@ Problem Name :- Factorial
 Problem ID :- FACTRL
 Problem Link :- http://www.spoj.com/problems/FCTRL2/
 Date :- 16th June 2017
-By :- Sourabh Khandelwal(http://www.spoj.com/problems/FCTRL2/#)
+By :- Sourabh Khandelwal(http://www.spoj.com/users/themast3r)
 */
 
 #include <bits/stdc++.h>
