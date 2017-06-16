@@ -21,3 +21,4 @@ Also keep in mind :-
 1. Please explain your algorithm if it is not obvious.
 2. Comment against a line wherever neccessary.
 3. If the solution follows from a standard algorithm it would be nice if you can add a link to a source(s) of learning it.
+4. It is advised that you write variable and function names such that their meaning is conveyed.
