@@ -9,7 +9,7 @@ cow on arr[0]). Now we do iterate over the array from the second element to the 
 last_pos and the coordinate represented by current index. If this distance is greater than or equal to x then place a new cow
 here and update last_pos to current index. For every placement of a cow increment the number of cows that has been placed so far
 and return true if cows placed so far equals cows that are actually needed to be placed.
-3. If all cows can not be placed, i.e. cows placed so far never equals cows that are actually needed to be placed then we fimally
+3. If all cows can not be placed, i.e. cows placed so far never equals cows that are actually needed to be placed then we finally
 reach the end of iteration and our predicate function returns false. This means that this distance x is too high to place all 
 cows.
 4. Now to apply Binary Search we need to determine what action to take when the predicate returns false and true. If predicate 
