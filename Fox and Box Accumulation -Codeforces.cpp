@@ -1,4 +1,5 @@
 // Link to the problem - http://codeforces.com/problemset/problem/388/A
+// O(N ^ 2) approach
 
 #include <bits/stdc++.h>
 using namespace std;
